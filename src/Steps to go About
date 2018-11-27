@@ -1,0 +1,2 @@
+1. Setup the react router using browserRouter and route tags
+2. Use the application state used to store values as an object as compared to an array, it is how it is done in scalable production
